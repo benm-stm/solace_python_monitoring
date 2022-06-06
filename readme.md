@@ -1,4 +1,4 @@
-# Solace Client Monitoring
+# Solace Monitoring Agent
 These plugins lets you gather metrics from solace event broker and export them to gcp cloud monitoring
 
 ## Plugin Names explanation
