@@ -1,0 +1,18 @@
+# client and queues stats
+# empty lines and comments lines starting by '#' are permitted
+total-egress-discards
+total-ingress-discards
+client-data-messages-received
+client-data-messages-sent
+bind-count
+current-spool-usage-in-mb
+total-ttl-expired-discard-messages
+quota
+average-ingress-rate-per-minute
+average-egress-rate-per-minute
+current-ingress-rate-per-second
+current-egress-rate-per-second
+total-messages-spooled
+total-delivered-unacked-msgs
+num-messages-spooled
+msg-spool-discards

@@ -1,0 +1,12 @@
+# Solace filters
+solace_ignored_msgvpns: "default,#config-sync"
+solace_ignored_clients: "#client-username,#config-sync"
+
+# logging conf
+log_lvl: info
+
+# Gcp monitoring exporter
+cloud_monitoring_project: gcp-project-x
+cloud_monitoring_credentials_path: service-account-file.json
+# monitoring series type
+cloud_monitoring_series_metric_type: solace/monitoring
