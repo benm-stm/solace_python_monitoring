@@ -1,7 +1,7 @@
 import os
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from dbb_monitoring_001.solace_per_client_stats import SolacePerClientStats
+from solace_monitoring_001.solace_per_client_stats import SolacePerClientStats
 
 if __name__ == "__main__":
     # iterate on conf files to processe many solaces from the same machine
