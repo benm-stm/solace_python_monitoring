@@ -1,11 +1,12 @@
-# DBB Client Monitoring
+# Solace Client Monitoring
 These plugins lets you gather metrics from solace event broker and export them to gcp cloud monitoring
 
 ## Plugin Names explanation
 | Plugin code  | plugin name  |
 |---|---|
-|  dbb-monitoring-001  |  client instances metrics |
-|  dbb-monitoring-002  |  queues metrics |
+|  solace_monitoring_001  |  client instances metrics |
+|  solace_monitoring_002  |  queues metrics |
+|  solace_monitoring_004  |  cluster metrics|
 ## Development Requirements
 install python 3
 install gcc-c++ python3-devel
