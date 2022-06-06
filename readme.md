@@ -6,6 +6,7 @@ These plugins lets you gather metrics from solace event broker and export them t
 |---|---|
 |  solace_monitoring_001  |  client instances metrics |
 |  solace_monitoring_002  |  queues metrics |
+|  solace_monitoring_003  |  bridge metrics|
 |  solace_monitoring_004  |  cluster metrics|
 ## Development Requirements
 install python 3
